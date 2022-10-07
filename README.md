@@ -8,3 +8,4 @@ JavaScript
 HTML
 CSS
 Python
+C++
