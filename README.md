@@ -5,6 +5,6 @@ Hello my name is Isaiah Dillard,
 
 Current skills:
 - Python
--C++
--Javascript
--HTML and CSS
+- C++
+- Javascript
+- HTML and CSS
