@@ -9,3 +9,5 @@ Current skills:
 - Javascript
 - HTML and CSS
 - Object Oriented Programming
+- Data Structures
+-
