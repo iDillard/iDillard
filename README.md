@@ -5,6 +5,8 @@ Hello my name is Isaiah Dillard,
  
  I have seperated my programs in repositories based off the language used.
  Each repository has multiple programs located in folders 
+ 
+ Current Project: Car lot located in CPP programs
 
 Current skills:
 - Python
