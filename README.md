@@ -15,3 +15,8 @@ Hello my name is Isaiah Dillard,
 - HTML and CSS
 - Object Oriented Programming
 - Data Structures
+
+# Tools and more
+- Django
+- SCRUM
+- 
