@@ -19,4 +19,3 @@ Hello my name is Isaiah Dillard,
 # Tools and more
 - Django
 - SCRUM
-- 
