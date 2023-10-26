@@ -8,14 +8,11 @@ Hello my name is Isaiah Dillard,
  I have seperated my programs in repositories based off the language used.
  Each repository has multiple programs located in folders 
 
-## Skills
-- Python
-- C++
-- Javascript
-- HTML and CSS
-- Object Oriented Programming
-- Data Structures
+## Languages
+ C++/ JavaScript / Python / HTML / SQL
 
-# Tools and more
-- Django
-- SCRUM
+## Tools and more
+Django / SCRUM / DevOps
+
+## Websites
+www.linkedin.com/in/idillard
