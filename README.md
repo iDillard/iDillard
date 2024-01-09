@@ -8,7 +8,7 @@ Hello my name is Isaiah Dillard,
  I have seperated my programs in repositories based off the language used.
  Each repository has multiple programs located in folders 
 
-I have gained a great understanding of the Software Development Life Cycle and the models used in the development process. Models like the Incremental and Iterative design models like Feature Driven Development, Test Driven Development, and Behavior Driven Development. I also have a solid understand of Rapid Application Development models like Agile. Through my schooling I have also gained a solid understanding fo SCRUM and the different roles within SCRUM. I am also familiar with how the rolese work together in sprints to create an amazing product that is meaningful to the customer and/or Product owner.
+I have gained a great understanding of the Software Development Life Cycle and the models used in the development process. Models like the Incremental and Iterative design models like Feature Driven Development, Test Driven Development, and Behavior Driven Development. I also have a solid understand of Rapid Application Development models like Agile. Through my schooling I have also gained a solid understanding of SCRUM and the different roles within SCRUM. I am also familiar with how the rolese work together in sprints to create an amazing product that is meaningful to the customer and/or Product owner.
 
 ## Languages
  C++/ JavaScript / Python / HTML / SQL
