@@ -14,5 +14,10 @@ Hello my name is Isaiah Dillard,
 ## Tools and more
 Django / SCRUM / DevOps
 
+## Learning in Progress
+- Networking Basic
+- Cloud Development (AWS)
+- 
+
 ## Websites
 www.linkedin.com/in/idillard
